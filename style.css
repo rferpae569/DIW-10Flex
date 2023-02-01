@@ -87,4 +87,9 @@ footer{
         height: auto;
         width: 100vw;
      }
+
+     nav{
+        margin: auto;
+        width: auto;
+    }
 }
