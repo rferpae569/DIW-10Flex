@@ -15,15 +15,14 @@ h1{
 }
 
 nav{
-    margin: 50px auto;
+    margin: auto;
     width: 30vw;
 }
 
 ul{
     list-style: none;
     display: flex;
-    justify-content: space-around
-   
+    justify-content: space-around;
 }
 
 main{
@@ -45,7 +44,7 @@ section:first-child,section:last-child{
     flex-direction: column;
     width: auto;
     justify-content: space-between;
-    height: 15vh;
+    height: 11rem;
 
 }
 
@@ -54,7 +53,6 @@ article{
     border: green 5px solid;
     
 }
-
 
 footer{
     background-color: black;
@@ -91,6 +89,10 @@ footer{
      nav{
         margin: auto;
         width: auto;
+    }
+
+    footer{
+        height: auto;
     }
 
 }
