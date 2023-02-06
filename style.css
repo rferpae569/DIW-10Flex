@@ -15,7 +15,7 @@ h1{
 }
 
 nav{
-    margin: auto;
+    margin: 50px auto;
     width: 30vw;
 }
 
@@ -44,7 +44,7 @@ section:first-child,section:last-child{
     flex-direction: column;
     width: auto;
     justify-content: space-between;
-    height: 11rem;
+    height: 9rem;
 
 }
 
