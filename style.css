@@ -10,12 +10,12 @@ header{
 }
 
 h1{
-    padding: 15px;
+    padding: 1vmin;
     color: rgb(126, 190, 30);
 }
 
 nav{
-    margin: 50px auto;
+    margin: 0 auto;
     width: 30vw;
 }
 
